@@ -28,4 +28,4 @@ Features :-
 
 # OUTPUT :-
 
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b667c226-497e-472d-b44c-57f0cf5734da" />
